@@ -1,0 +1,17 @@
+.cell {
+    width: 120px;
+    height: 120px;
+    border: 3px solid #2E294E;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F1E0C5;
+}
+.cell:hover{
+    cursor: pointer;
+}
+.cell h4 {
+    color: #907AD6;
+    font-size: 35px;
+}
